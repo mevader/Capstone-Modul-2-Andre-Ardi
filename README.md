@@ -1,5 +1,7 @@
 # Capstone-Modul-2-Andre-Ardi
 Tugas Purwhadika
+Catatan: Mohon maaf entah mengapa map folium tidak bisa dibuka di github, padahal di VSCode dan Jupiter notebook tidak ada masalah.
+
 # **PENENTUAN LOKASI IDEAL INVESTASI SEWA  PROPERTI AIRBNB BANGKOK**
 
 # **Latar Belakang Masalah**
