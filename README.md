@@ -47,6 +47,16 @@ Deskripsi Kolom:
 * availability_365: avaliability_x. The calendar determines the availability of the listing x days in the future. 
 * number_of_reviews_ltm: The number of reviews the listing has (in the last 12 months).
 
+# **DATA UNDERSTANDING**
+
+Ada 15.854 baris dan 17 kolom
+5 kolom kategorikal dan 12 numerik
+Fokus dari penggunaan statistik deskriptif di sini adalah untuk:
+1. Pencarian data kosong
+2. Pencarian outliers
+3. Melihat normalitas distribusi data untuk analisis digunakan nanti dalam metode Inter Quartile Range dan kategorisasi
+4. Melihat quartil untuk 
+
 # **DATA CLEANING**
 Data kosong:
 ‘last_review’ & ‘review_per_month’ saling terkait (MaR)
